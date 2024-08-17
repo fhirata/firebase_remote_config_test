@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548862263953",
+    "project_id": "remoteconfigtest-9a42f",
+    "storage_bucket": "remoteconfigtest-9a42f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548862263953:android:8de86c0589489ffe68b530",
+        "android_client_info": {
+          "package_name": "com.example.firebase_remote_config"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEUxJ3IXjZmGd8D2vN3m5JeYn1-IfWFL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
